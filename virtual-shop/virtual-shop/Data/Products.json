@@ -1,0 +1,33 @@
+﻿{
+  "ProductList": [
+    {
+      "Name": "Rice",
+      "BuyPrice": 0.75,
+      "SellPrice": 1.25,
+      "Quantity": 0,
+      "id": 0
+    },
+    {
+      "Name": "Potatoes",
+      "BuyPrice": 1,
+      "SellPrice": 2,
+      "Quantity": 0,
+      "id": 0
+    },
+    {
+      "Name": "Steak",
+      "BuyPrice": 2.5,
+      "SellPrice": 3.75,
+      "Quantity": 0,
+      "id": 0
+    },
+    {
+      "Name": "Crisp-Packet",
+      "BuyPrice": 0.5,
+      "SellPrice": 1,
+      "Quantity": 0,
+      "id": 0
+    }
+  ]
+}
+

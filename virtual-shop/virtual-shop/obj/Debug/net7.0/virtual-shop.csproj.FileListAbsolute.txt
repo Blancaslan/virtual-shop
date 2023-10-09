@@ -1,0 +1,16 @@
+/Users/dennisceker/Projects/virtual-shop/virtual-shop/obj/Debug/net7.0/virtual-shop.csproj.AssemblyReference.cache
+/Users/dennisceker/Projects/virtual-shop/virtual-shop/obj/Debug/net7.0/virtual-shop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dennisceker/Projects/virtual-shop/virtual-shop/obj/Debug/net7.0/virtual-shop.AssemblyInfoInputs.cache
+/Users/dennisceker/Projects/virtual-shop/virtual-shop/obj/Debug/net7.0/virtual-shop.AssemblyInfo.cs
+/Users/dennisceker/Projects/virtual-shop/virtual-shop/obj/Debug/net7.0/virtual-shop.csproj.CoreCompileInputs.cache
+/Users/dennisceker/Projects/virtual-shop/virtual-shop/bin/Debug/net7.0/virtual-shop
+/Users/dennisceker/Projects/virtual-shop/virtual-shop/bin/Debug/net7.0/virtual-shop.deps.json
+/Users/dennisceker/Projects/virtual-shop/virtual-shop/bin/Debug/net7.0/virtual-shop.runtimeconfig.json
+/Users/dennisceker/Projects/virtual-shop/virtual-shop/bin/Debug/net7.0/virtual-shop.dll
+/Users/dennisceker/Projects/virtual-shop/virtual-shop/bin/Debug/net7.0/virtual-shop.pdb
+/Users/dennisceker/Projects/virtual-shop/virtual-shop/obj/Debug/net7.0/virtual-shop.dll
+/Users/dennisceker/Projects/virtual-shop/virtual-shop/obj/Debug/net7.0/refint/virtual-shop.dll
+/Users/dennisceker/Projects/virtual-shop/virtual-shop/obj/Debug/net7.0/virtual-shop.pdb
+/Users/dennisceker/Projects/virtual-shop/virtual-shop/obj/Debug/net7.0/virtual-shop.genruntimeconfig.cache
+/Users/dennisceker/Projects/virtual-shop/virtual-shop/obj/Debug/net7.0/ref/virtual-shop.dll
+/Users/dennisceker/Projects/virtual-shop/virtual-shop/bin/Debug/net7.0/Data/Products.json
